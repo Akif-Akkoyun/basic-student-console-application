@@ -1,0 +1,61 @@
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.exe
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.deps.json
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.runtimeconfig.json
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.runtimeconfig.dev.json
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.dll
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.pdb
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.csproj.AssemblyReference.cache
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.AssemblyInfoInputs.cache
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.AssemblyInfo.cs
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.dll
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\refint\OgrenciYonetimUygulamasi.dll
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.pdb
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.genruntimeconfig.cache
+C:\Users\tufan\Desktop\Tufan Güngör\SMA\G059\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\ref\OgrenciYonetimUygulamasi.dll
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.exe
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.deps.json
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.runtimeconfig.json
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.runtimeconfig.dev.json
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.dll
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.pdb
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.AssemblyInfoInputs.cache
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.AssemblyInfo.cs
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.dll
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\refint\OgrenciYonetimUygulamasi.dll
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.pdb
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.genruntimeconfig.cache
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi-G059(Temel)\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\ref\OgrenciYonetimUygulamasi.dll
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.exe
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.deps.json
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.runtimeconfig.json
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.runtimeconfig.dev.json
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.dll
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.pdb
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.AssemblyInfoInputs.cache
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.AssemblyInfo.cs
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.dll
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\refint\OgrenciYonetimUygulamasi.dll
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.pdb
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.genruntimeconfig.cache
+C:\Users\akifa\OneDrive\Masaüstü\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\ref\OgrenciYonetimUygulamasi.dll
+D:\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.exe
+D:\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.deps.json
+D:\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.runtimeconfig.json
+D:\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.runtimeconfig.dev.json
+D:\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.dll
+D:\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\bin\Debug\net5.0\OgrenciYonetimUygulamasi.pdb
+D:\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+D:\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.AssemblyInfoInputs.cache
+D:\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.AssemblyInfo.cs
+D:\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.csproj.CoreCompileInputs.cache
+D:\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.dll
+D:\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\refint\OgrenciYonetimUygulamasi.dll
+D:\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.pdb
+D:\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\OgrenciYonetimUygulamasi.genruntimeconfig.cache
+D:\OgrenciYonetimUygulamasi\OgrenciYonetimUygulamasi\obj\Debug\net5.0\ref\OgrenciYonetimUygulamasi.dll
